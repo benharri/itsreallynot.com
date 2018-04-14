@@ -1,9 +1,10 @@
 ---
-title: About Me
+title: 'About Me'
 taxonomy:
-    category: sidebar
+    category:
+        - sidebar
 ---
 
 ![About Me](about.png)
 
-**My name is John Snow**. I’m a blogger...
+Hi hello. This is the site for αpex, a Destiny2 clan.

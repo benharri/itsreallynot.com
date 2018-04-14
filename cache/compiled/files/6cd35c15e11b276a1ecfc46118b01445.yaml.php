@@ -1,0 +1,22 @@
+<?php
+return [
+    '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
+    'filename' => '/var/www/itsreallynot.com/user/themes/soraarticle/blueprints.yaml',
+    'modified' => 1523730567,
+    'data' => [
+        'name' => 'SoraArticle',
+        'version' => '1.4.1',
+        'description' => 'Sora Article is a minimal Theme designed for the discerning blogger, ported to Grav.',
+        'icon' => 'group',
+        'author' => [
+            'name' => 'Team Grav',
+            'email' => 'devs@getgrav.org',
+            'url' => 'http://getgrav.org'
+        ],
+        'homepage' => 'https://github.com/getgrav/grav-theme-soraarticle',
+        'demo' => 'http://demo.getgrav.org/soraarticle-skeleton',
+        'keywords' => 'soraarticle, theme, onepage, modern, fast, responsive, html5, css3',
+        'bugs' => 'https://github.com/getgrav/grav-theme-soraarticle/issues',
+        'license' => 'CC BY 3.0'
+    ]
+];
